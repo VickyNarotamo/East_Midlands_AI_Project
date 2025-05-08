@@ -1,7 +1,7 @@
 from google import genai
 
 # Step 1: Authenticate the Gemini client with your API key
-client = genai.Client(api_key='AIzaSyBLR73JCyQDl1NNPcCm1Tqbsgydtxw9wIY')
+client = genai.Client(api_key='AIzaSyAzzEijN16vf-meiqB5uDPMu_FmMFXw5ZI')
 
 # Step 2: Generate content using the Gemini 2.0 Flash model
 # This sends a prompt to the model and gets a generated response
