@@ -1,15 +1,20 @@
 from google import genai
+from dotenv import load_dotenv
+import os
 
-# Step 1: Authenticate the Gemini client with your API key
-client = genai.Client(api_key='AIzaSyAzzEijN16vf-meiqB5uDPMu_FmMFXw5ZI')
+# Step 1: Load environment variables from .env
+load_dotenv()
+api_key = os.getenv("GOOGLE_API_KEY")  # ✅ Use the variable name here
 
-# Step 2: Generate content using the Gemini 2.0 Flash model
-# This sends a prompt to the model and gets a generated response
+# Step 2: Authenticate with the Gemini API
+client = genai.Client(api_key=api_key)
+
+# Step 3: Use the Gemini 2.0 Flash model
 response = client.models.generate_content(
-    model='gemini-2.0-flash-001',  # Use the Gemini 2.0 Flash model variant
-    contents='Summarise the benefits of using AI in business.'
+    model="gemini-2.0-flash-001",
+    contents="Summarise the benefits of using AI in business."
 )
 
-# Step 3: Output the model's response
+# Step 4: Print the output
 print("\nGemini Response:")
-print(response.text)  # Display the generated text
+print(response.text)
