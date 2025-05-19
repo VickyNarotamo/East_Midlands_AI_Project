@@ -1,0 +1,19 @@
+```text
+                       SSP UK
+           Pumpkin WHS Leicester Stn
+                   11431371
+    2005 Ola Z
+    Chk 1896               120ct'22 11:02  Gst 0
+               Take Away
+        1 Lucoz Orange 380              2.29
+        Credit/Debit                    2.29
+
+         0.38 VAT TTL                  2.29
+         Net TTL                      1.91
+         Subtotal                     2.29
+         Payment                      2.29
+    ----------------------------------------
+          VAT NUMBER: 884 2579 78
+
+     32 Jamestown Road NW1 7HW, London
+```

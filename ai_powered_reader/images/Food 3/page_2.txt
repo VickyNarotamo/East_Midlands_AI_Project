@@ -1,0 +1,20 @@
+```text
+                                CAWA Coffee
+                           Corporation Street
+                          Chesterfield S41 7UB
+130043 Rachael
+-----------------------------------------
+CHK 10144852                      GST 1
+                   10/12/2022 11:51 AM
+-----------------------------------------
+1 Cheese & Jalapeno Pasty          3.25
+1 Espresso TG                      2.95
+
+BEVERAGE                           £2.95
+PATISSERIE                         £3.25
+Payment                            £6.20
+Change Due                         £0.00
+----------------- Check Closed -----------------
+                   10/12/2022 11:51 AM
+@CAWACOFFEE
+```

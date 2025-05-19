@@ -1,0 +1,19 @@
+```text
+                University of Derby
+         Bridge Street Enterprise Centre
+                 Sales Receipt
+Date : 27 October 2022                 08:45:17
+Receipt: 00000003
+OperNam: Heather Shipley.
+1  x OneWorld Fruit Flapjack             B     1.60
+1  x Just Cheddar savoury              B     2.15
+                                To Pay:     3.75
+                                Tendered:    3.75
+Payment Method(s):
+                        VISA DEBIT:     3.75
+Rate Code       Excl        VAT         Inc
+20.00 A         0.00        0.00        0.00
+0.00 В          3.75        0.00        3.75
+            ** T H A N K   Y O U **
+                 VAT: 678 841 283
+```

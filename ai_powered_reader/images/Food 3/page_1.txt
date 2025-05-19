@@ -1,0 +1,67 @@
+```text
+Sainsbury's
+ Helping everyone eat better
+ LIVERPOOL ELLIOT STREET LOCAL
+ 0151 708 6313
+
+ Sainsbury's Supermarkets Ltd
+ 33 Holborn London EC1N 2HT
+ www.sainsburys.co.uk
+ Vat Number: 660 4548 36
+
+ FALAFEL & HOUM WRAP         £2.95
+ *PRINGLES SC80 40G           £1.05
+ *MOJU GING SHOT 60ML           £1.95
+ SW meal deal                  -£2.45
+
+ 3 BALANCE DUE                £3.50
+ Mastercard                   £3.50
+ contactless ))))
+ [ICC] ************8095
+ AID:           A0000000041010
+ PAN SEQUENCE:                01
+ MERCHANT:                   ****3314
+ AUTH CODE:                  200597
+ TID:                        ****5000
+
+ No Cardholder Verification
+
+ CHANGE                          £0.00
+
+ YOUR SAVINGS TODAY:
+ PROMOTIONS                    -£2.45
+ *************************************
+ WITH NECTAR YOU WOULD HAVE EARNED:
+ POINTS                                3
+                     REGISTER AT Nectar.com
+                        or download the app.
+ *************************************
+
+ ***** For a chance to win *****
+ 100,000 Nectar points
+ please tell us how we did at
+ lettuce-know.com
+ **************************
+
+ Christmas Food to order
+ Place your
+ order online by midnight,
+ 16 December at
+ Sainsburys.co.uk/ChristmasFood.
+ Subject to availability.
+ See website for details.
+ Deposit required.
+
+ Celebrating Black
+ History Month
+
+ PLEASE KEEP FOR YOUR RECORDS
+ PUBLISHED TERMS AND CONDITIONS APPLY
+
+ C           6294444065593700121022
+             #5937     14:53:35 12OCT2022
+             $4444     R65
+             Thank you for your visit.
+
+                                        CS CamScanner
+```
